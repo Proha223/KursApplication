@@ -1,0 +1,42 @@
+1/6
+Какой модификатор делает доступ только в пределах его сборки?
+private
+protected
+public
+internal
+4
+2/6
+Как объявить свойство в классе?
+public int Property { get; set; }
+public int Property;
+var Property = int;
+public Property = int;
+1
+3/6
+Как определить конструктор с параметрами?
+MyClass(int a): void {}
+public MyClass(int a) {}
+MyClass(int a) {}
+public void MyClass(int a) {}
+2
+4/6
+Что верно для конструктора по умолчанию?
+Он принимает параметры
+Создается автоматически, если не объявлен
+Он не может содержать код
+Он всегда статический
+2
+5/6
+Что является экземпляром класса?
+Набор методов
+Переменная класса
+Объект класса
+Атрибут класса
+3
+6/6
+Как создать объект класса?
+Person tom = new Person();
+Tom Person = new Person();
+Person new tom = Person();
+Person new = tom Person();
+1
